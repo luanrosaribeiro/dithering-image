@@ -3,6 +3,7 @@
 # Instruções de Build:
 #   - Ative o ambiente virtual: source venv/bin/activate
 #   - Crie um arquivo `.env` com as credenciais do Redis
+#   - Roda o comando 'pip install -r requirements.txt' para instalar os libs necessárias
 #   - Rode o comando: python main.py
 #   - Após preencher o caminho da imagem, o programa salva as ditherizações
 #     e também armazena os dados originais no Redis (expira em 10s).
